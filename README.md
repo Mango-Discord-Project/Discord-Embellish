@@ -10,7 +10,7 @@ Discord 宣傳文案美化之備份
 
 ---
 
-> Discord Motd Embellish | Discord 宣傳文案美化之備份
+## Discord Motd Embellish | Discord 宣傳文案美化之備份
 
 
 完成名單
