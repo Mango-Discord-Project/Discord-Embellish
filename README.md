@@ -1,4 +1,4 @@
-# DiscordMotd-Embellish
+# Discord-Embellish
 
 Discord 宣傳文案美化之備份
 
@@ -10,14 +10,14 @@ Discord 宣傳文案美化之備份
 
 ---
 
-## Discord Motd Embellish | Discord 宣傳文案美化之備份
+## Discord Embellish | Discord 宣傳文案美化之備份
 
 
 完成名單
 |客戶名稱|是否完成|相關鏈接|
 |-|-|-|
 |夜風|是|[夜風伺服器 徵選人才](Project/夜風/夜風伺服器_徵選人才.md)|
-|煙火|否|[煙火伺服器](Project/煙火/煙火伺服器.md)|
+|煙火|否|[鴻漸伺服器](Project/煙火/煙火伺服器.md)|
 
 ```python=
 def mango():
